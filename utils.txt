@@ -3,6 +3,6 @@ https://docs.djangoproject.com/en/3.0/intro/tutorial05/
 
 line:
 
-And now we have three tests that confirm that Question.was_published_recently() returns sensible values for past, recent, and future questions.
+And now ,we have three tests that confirm that Question.was_published_recently() returns sensible values for past, recent, and future questions.
 
 Again, polls is a minimal application, but however complex it grows in the future and whatever other code it interacts with, we now have some guarantee that the method we have written tests for will behave in expected way
